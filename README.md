@@ -5,7 +5,7 @@
 - [Windows Utilities](https://github.com/its-null/Windows-Utilities):
   Windows and AD Tools for Sysadmins
 - [PowerShell Modules](https://github.com/its-null/Powershell-Modules):
-  Custom PowersHell modules I have written that integrate into my other scripts
+  Custom PowerShell modules I have written that integrate into my other scripts
 - [O365 Utilities](https://github.com/its-null/Office-365-Utilities):
   Office 365 Utility Scripts for cleaning and fixing odd behavior.
 
