@@ -1,6 +1,7 @@
 ## CTRLD Projects
 - [CTRLD Sync](https://github.com/its-null/ctrld-sync):
   Small utility to import JSON folders (hagezi) into ControlD.
+  
   [![Sync](https://github.com/its-null/ctrld-sync/actions/workflows/sync.yml/badge.svg)](https://github.com/its-null/ctrld-sync/actions/workflows/sync.yml)
 
 ## Windows Projects
