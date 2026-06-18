@@ -1,3 +1,7 @@
+## CTRLD Projects
+- [CTRLD Sync](https://github.com/its-null/ctrld-sync):
+  Small utility to import JSON folders (hagezi) into ControlD.
+
 ## WINDOWS PROJECTS
 
 - [SCCM Helpers](https://github.com/its-null/SCCM-Helpers):
