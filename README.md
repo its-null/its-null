@@ -17,5 +17,5 @@
 
 ## PowerShell Projects
 
-- [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud)):
+- [Wasp AssetCloud Module](https://github.com/the-wittch/Wittch.PSModule.WaspAssetCloud):
   Module to interact with Wasp AssetCloud via command line.
